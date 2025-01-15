@@ -1,2 +1,2 @@
-I am admin \n
+I am admin
 I am user
